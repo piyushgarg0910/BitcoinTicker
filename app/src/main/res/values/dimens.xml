@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text sizes -->
+    <dimen name="heading_1_text_size">72sp</dimen>
+    <dimen name="heading_2_text_size">48sp</dimen>
+    <dimen name="heading_3_text_size">32sp</dimen>
+    <dimen name="body_1_text_size">24sp</dimen>
+    <dimen name="body_2_text_size">16sp</dimen>
+
+    <!-- View margins and elevation -->
+    <dimen name="card_view_elevation">8dp</dimen>
+    <dimen name="card_view_corner_radius">48dp</dimen>
+    <dimen name="card_view_height">320dp</dimen>
+    <dimen name="bitcoin_country_margin_top">108dp</dimen>
+    <dimen name="bitcoin_currency_margin_top">196dp</dimen>
+    <dimen name="bitcoin_value_margin_top">64dp</dimen>
+    <dimen name="bitcoin_update_time_margin_bottom">72dp</dimen>
+    <dimen name="bitcoin_country_shimmer_width">144dp</dimen>
+    <dimen name="bitcoin_currency_shimmer_height">96dp</dimen>
+    <dimen name="bitcoin_value_shimmer_width">196dp</dimen>
+    <dimen name="bitcoin_update_date_shimmer_width">96dp</dimen>
+
+    <!-- Multiples of 4 -->
+    <dimen name="dimens_0x">0dp</dimen>
+    <dimen name="dimens_1x">4dp</dimen>
+    <dimen name="dimens_2x">8dp</dimen>
+    <dimen name="dimens_3x">12dp</dimen>
+    <dimen name="dimens_4x">16dp</dimen>
+    <dimen name="dimens_5x">20dp</dimen>
+    <dimen name="dimens_6x">24dp</dimen>
+    <dimen name="dimens_7x">28dp</dimen>
+    <dimen name="dimens_8x">32dp</dimen>
+    <dimen name="dimens_9x">36dp</dimen>
+    <dimen name="dimens_10x">40dp</dimen>
+    <dimen name="dimens_11x">44dp</dimen>
+    <dimen name="dimens_12x">48dp</dimen>
+</resources>
